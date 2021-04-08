@@ -1,4 +1,2 @@
 # AlienGames
-Fun experiments with SpriteKit Framework
-
-Really just to be inteded for me as a learning process.
+Fun experiment with the SpriteKit Framework.
